@@ -7,7 +7,7 @@ Name of the team member: Yining Xie
 
 Name of Challenge: Quantum approximate optimisation algorithms for real-world scenarios (Strangeworks)
 
-I look forward to continuing my journey in applying my previous studies, knowledge and experience at Munich University, Univesity of Califonia at Los Angeles (UCLA) & the National Institutes of Health (NIH) in the fields of Biomedicine, Biochemistry, Biophysics and Clinical Trails into Quantum filed, as highlighted at the beginning of my brief cv that I submitted. Many thanks! 
+I look forward to continuing my journey in applying my previous studies, knowledge and experience at Ludwig-Maximinian-Universität (LMU, Munich, Germany), Univesity of Califonia at Los Angeles (UCLA) & the National Institutes of Health (NIH) in the fields of Biomedicine, Biochemistry, Biophysics and Clinical Trails into Quantum filed, as highlighted at the beginning of my brief cv that I submitted. Many thanks! 
 
 
 # Quantum-approximate-optimisation-algorithms-for-real-world-scenarios---Strangeworks
