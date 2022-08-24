@@ -7,7 +7,7 @@ Name of the team member: Yining Xie
 
 Name of Challenge: Quantum approximate optimisation algorithms for real-world scenarios (Strangeworks)
 
-I look forward to continuing my journey in applying my previous fields of Biomedicine, Biochemistry and Biophysics into Quantum filed, as highlighted at the beginning of my brief cv. Many thanks! 
+I look forward to continuing my journey in applying my previous fields of Biomedicine, Biochemistry and Biophysics into Quantum filed, as highlighted at the beginning of my brief cv that I submitted. Many thanks! 
 
 
 # Quantum-approximate-optimisation-algorithms-for-real-world-scenarios---Strangeworks
