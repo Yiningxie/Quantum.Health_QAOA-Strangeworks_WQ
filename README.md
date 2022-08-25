@@ -3,7 +3,7 @@ Name of the team: Quantum Health
 Name of the team member: Yining Xie 
 - Discord ID:	Yining Xie#8635
 - Githup ID:	Yiningxie
-- e-mail:		  yxie3@yahpp.com
+- e-mail:		  yxie3@yahoo.com
 
 Name of Challenge: Quantum approximate optimisation algorithms for real-world scenarios (Strangeworks)
 
